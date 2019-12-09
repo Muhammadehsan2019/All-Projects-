@@ -5,7 +5,6 @@ INDEX VERSION 1.131+E:\1.PeopleinTech\1.Selenuim\New Eclips Files\.metadata\.plu
 564439890.index
 1283527292.index
 2452671966.index
-2319084335.index
 4260344806.index
 2561111136.index
 3160303336.index
@@ -54,7 +53,6 @@ INDEX VERSION 1.131+E:\1.PeopleinTech\1.Selenuim\New Eclips Files\.metadata\.plu
 2412905449.index
 2067407928.index
 162681581.index
-3303851989.index
 2212696210.index
 3889964010.index
 1801947480.index
@@ -73,7 +71,6 @@ INDEX VERSION 1.131+E:\1.PeopleinTech\1.Selenuim\New Eclips Files\.metadata\.plu
 3708972799.index
 1252079320.index
 2564048116.index
-380495748.index
 2974632992.index
 103360228.index
 828302081.index
@@ -103,8 +100,6 @@ INDEX VERSION 1.131+E:\1.PeopleinTech\1.Selenuim\New Eclips Files\.metadata\.plu
 4132539233.index
 1191428857.index
 3626859763.index
-3548247888.index
-29030020.index
 2638209608.index
 2333677935.index
 2058098518.index
