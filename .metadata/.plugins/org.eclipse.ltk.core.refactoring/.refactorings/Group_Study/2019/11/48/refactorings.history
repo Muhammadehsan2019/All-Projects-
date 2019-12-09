@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Drivers&apos; to &apos;GC_Reddy_Tutorials_Practice&apos;&#x0D;&#x0A;- Original project: &apos;Group_Study&apos;&#x0D;&#x0A;- Destination element: &apos;GC_Reddy_Tutorials_Practice&apos;&#x0D;&#x0A;- Original element: &apos;Drivers&apos;" description="Copy folder" destination="=GC_Reddy_Tutorials_Practice" element1="Drivers" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1575088918900" units="0" version="1.0"/>
+</session>
