@@ -1,6 +1,0 @@
-login_username_id=email
-login_password_id=pass
-login_signin_xpath=//input[@type='submit']
-login_firstname_name = firstname
-login_lastname_name =lastname
-login_mobilenumber_xpath= //input[@label='Mobile number or email address']

@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
-<fullyQualifiedTypeName name="org.apache.bcel.generic.Select"/>
-<fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Select"/>
-<fullyQualifiedTypeName name="junit.framework.Assert"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
-<fullyQualifiedTypeName name="org.testng.Assert"/>
-<fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
-<fullyQualifiedTypeName name="jxl.Cell"/>
-<fullyQualifiedTypeName name="org.testng.annotations.BeforeTest"/>
 <fullyQualifiedTypeName name="jxl.Sheet"/>
 <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 <fullyQualifiedTypeName name="java.awt.Label"/>
@@ -46,7 +37,6 @@
 <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
 <fullyQualifiedTypeName name="org.automation.testingworld.pages.LoginPage"/>
 <fullyQualifiedTypeName name="org.automation.testingworld.datagenerators.DataGenerator"/>
-<fullyQualifiedTypeName name="java.lang.Thread"/>
 <fullyQualifiedTypeName name="org.apache.bcel.classfile.Method"/>
 <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
 <fullyQualifiedTypeName name="org.apache.poi.hssf.usermodel.HSSFDateUtil"/>
@@ -56,4 +46,18 @@
 <fullyQualifiedTypeName name="org.openqa.selenium.OutputType"/>
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="JavaBasics.Methods"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="WorkingWithConstractors.Prac1ConstractorsBasic"/>
+<fullyQualifiedTypeName name="WorkingWithConstractors.Prac2TypesOfConstructors"/>
+<fullyQualifiedTypeName name="net.bytebuddy.implementation.bytecode.Addition"/>
+<fullyQualifiedTypeName name="WorkingWithAccessModifiers.Prac1AccessModifiers"/>
+<fullyQualifiedTypeName name="net.bytebuddy.implementation.bytecode.Multiplication"/>
+<fullyQualifiedTypeName name="WorkinWithInheretance.Prac1InheretanceChild"/>
+<fullyQualifiedTypeName name="WorkingWithInterface.Prac1Interface"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
 </qualifiedTypeNameHistroy>

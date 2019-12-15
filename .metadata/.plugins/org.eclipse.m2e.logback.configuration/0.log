@@ -1386,3 +1386,15 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.po
 2019-12-09 12:52:41,696 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\1.PeopleinTech\1.Selenuim\New Eclips Files\Selenium_AtoZ\src\main\resources
 2019-12-09 12:52:41,697 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-12-09 12:52:41,698 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\1.PeopleinTech\1.Selenuim\New Eclips Files\Selenium_AtoZ\src\test\resources
+2019-12-10 23:03:03,073 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-12-10 23:17:15,756 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-11 12:32:42,357 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-11 12:59:52,007 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-11 12:59:52,008 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\1.PeopleinTech\1.Selenuim\New Eclips Files\DataDrivenAutomation\src\main\resources
+2019-12-11 12:59:52,010 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-11 12:59:52,011 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\1.PeopleinTech\1.Selenuim\New Eclips Files\DataDrivenAutomation\src\test\resources
+2019-12-11 12:59:53,148 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-11 12:59:53,149 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\1.PeopleinTech\1.Selenuim\New Eclips Files\DataDrivenFramework2\src\main\resources
+2019-12-11 12:59:53,151 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-11 12:59:53,152 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\1.PeopleinTech\1.Selenuim\New Eclips Files\DataDrivenFramework2\src\test\resources
+2019-12-14 12:21:54,079 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
